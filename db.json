@@ -1,0 +1,45 @@
+{
+  "estatus": [
+      {
+      "paso": "paso1",
+      "descripcion": "Capturar Solcitud"
+    },
+    {
+      "paso": "paso2",
+      "descripcion": "Capturar Solcitud"
+    },
+    {
+      "paso": "paso3",
+      "descripcion": "Capturar Solcitud"
+    }, 
+    {
+      "paso": "paso4",
+      "descripcion": "Capturar Solcitud"
+    }, 
+    {
+      "paso": "paso5",
+      "descripcion": "Capturar Solcitud"
+    }, 
+    {
+      "paso": "paso6",
+      "descripcion": "Capturar Solcitud"
+    },
+     {
+      "paso": "paso7",
+      "descripcion": "Capturar Solcitud"
+    }, 
+    {
+      "paso": "paso8",
+      "descripcion": "Capturar Solcitud"
+    }, 
+    {
+      "paso": "paso9",
+      "descripcion": "Capturar Solcitud"
+    }, 
+    {
+      "paso": "paso10",
+      "descripcion": "Capturar Solcitud"
+    }
+
+  ]
+}
